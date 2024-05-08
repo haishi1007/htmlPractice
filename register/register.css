@@ -1,0 +1,38 @@
+.register-box{
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border:1px solid black;
+}
+h2{
+    text-align: center;
+}
+/*.content{
+    text-align: center;
+    margin-top: 20px;
+}
+label{
+  float: left; 
+  text-align: right;
+}*/
+label{
+    width: 150px;
+    display: inline-block;
+    text-align: right;
+    margin-top: 20px;
+}
+#btn{
+    text-align: center;
+}
+button{
+     height: 30px;
+    width: 80px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+#link{
+    text-align: center;
+    margin-top: 20px;
+}
